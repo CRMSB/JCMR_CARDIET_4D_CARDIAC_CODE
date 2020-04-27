@@ -1,10 +1,10 @@
 # README #
 
-JCMR Cardiet et al., Self-gated 5D Cardiac Magnetic Resonance in Mice Model : A detailed study
+JCMR Cardiet et al., Self-gated 4D Cardiac Magnetic Resonance in Mice Model : A detailed study
 
 
 ### What is this repository for? ###
-This repository includes code to download input data, reconstruct, analyze, and generate figures for a magnetic resonance cardiac sequence as published under "Self-gated 5D Cardiac Magnetic Resonance in Mice Model : A detailed study" in Journal of Cardiovascular Magnetic Resonance.
+This repository includes code to download input data, reconstruct, analyze, and generate figures for a magnetic resonance cardiac sequence as published under "Self-gated 4D Cardiac Magnetic Resonance in Mice Model : A detailed study" in Journal of Cardiovascular Magnetic Resonance.
 
 Requirements:
 -------------
@@ -30,12 +30,12 @@ Data:
 
 Usage:
 ------
-* 1 - Download one or many dataset(s) and place them `JCMR_Cardiet_5DCardiac/data_in`
+* 1 - Download one or many dataset(s) and place them `JCMR_Cardiet_4DCardiac/data_in`
 * 2 - Go to `./code/` and run `UTE_3D_SG_reco.m`
 * 3 - A first window will appear to choose the mouse you want to study (1 : Mouse 1, 2 : Mouse 2, ..)
 * 4 - A second window will appear, to choose the reconstruction you want (Respiratory, Original Cardiac or Whole Cardiac)
 * 5 - The corresponding images will be reconstructed, as different graphs explaining experiment parameters and interpolation steps
-* 6 - Image matrix will be saved in the file `JCMR_Cardiet_5DCardiac/data_out`
+* 6 - Image matrix will be saved in the file `JCMR_Cardiet_4DCardiac/data_out`
 
 Folder Structure:
 --------
