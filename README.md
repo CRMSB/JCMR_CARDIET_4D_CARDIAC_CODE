@@ -30,12 +30,12 @@ Data:
 
 Usage:
 ------
-* 1 - Download one or many dataset(s) and place them `JCMR_Cardiet_4DCardiac/data_in`
+* 1 - Download one or many dataset(s) and place them `Cardiet_4DCardiac/data_in`
 * 2 - Go to `./code/` and run `UTE_3D_SG_reco.m`
 * 3 - A first window will appear to choose the mouse you want to study (1 : Mouse 1, 2 : Mouse 2, ..)
 * 4 - A second window will appear, to choose the reconstruction you want (Respiratory, Original Cardiac or Whole Cardiac)
 * 5 - The corresponding images will be reconstructed, as different graphs explaining experiment parameters and interpolation steps
-* 6 - Image matrix will be saved in the file `JCMR_Cardiet_4DCardiac/data_out`
+* 6 - Image matrix will be saved in the file `Cardiet_4DCardiac/data_out`
 
 Folder Structure:
 --------
