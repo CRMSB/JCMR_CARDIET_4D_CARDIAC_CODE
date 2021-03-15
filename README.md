@@ -1,10 +1,10 @@
 # README #
 
-JCMR Cardiet et al., Self-gated 4D Cardiac Magnetic Resonance in Mice Model : A detailed study
+Cardiet et al., 4D Self-gated Cardiac Magnetic Resonance Imaging in mice including respiratory motion intervals: a method of data interpolation reducing acquisition time
 
 
 ### What is this repository for? ###
-This repository includes code to download input data, reconstruct, analyze, and generate figures for a magnetic resonance cardiac sequence as published under "Self-gated 4D Cardiac Magnetic Resonance in Mice Model : A detailed study" in Journal of Cardiovascular Magnetic Resonance.
+This repository includes code to download input data, reconstruct, analyze, and generate figures for a magnetic resonance cardiac sequence as published under "4D Self-gated Cardiac Magnetic Resonance Imaging in mice including respiratory motion intervals: a method of data interpolation reducing acquisition time" in NMR in Biomedicine.
 
 Requirements:
 -------------
