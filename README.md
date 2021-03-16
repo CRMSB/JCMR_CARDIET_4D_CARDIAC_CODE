@@ -26,7 +26,7 @@ Installation Options:
 
 Data:
 ------
-* Mice datasets used in the paper are available here : https://data.mendeley.com/datasets/vhnvp57b6f/draft?a=e004f3c0-78a9-4d2a-8de3-ff90b32791a6
+* Mice datasets used in the paper are available here : https://zenodo.org/record/4607426#.YFCnnWRKjeo
 
 Usage:
 ------
